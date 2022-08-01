@@ -1,0 +1,19 @@
+A. Hidden layer ke-0
+1 -> 300
+2 -> 500
+
+B. Hidden layer ke-n
+1 -> 1/2 dari H(n-1)
+2 -> 2/3 dari H(n-1)
+
+C. Jumlah hidden layer
+1 -> 2
+2 -> 3
+
+D. Learning Rate
+1 -> 0.01
+2 -> 0.02
+
+E. Activation Function
+1 -> ReLU
+2 -> Sigmoid
