@@ -1,0 +1,17 @@
+E
+(4389, 1281)   train
+(1463, 1281)    test
+
+GPCR
+(952, 1281)    train
+(318, 1281)     test
+
+IC
+(2214, 1281)    train
+(738, 1281)    test
+
+NR
+(135, 1281)     train
+(45, 1281)     test
+
+# goals --> main_nr_2_2_2_2_2 --> 110 seconds
